@@ -17,6 +17,7 @@ Software, data, and product development by:
 - [Matt Miller](https://github.com/thisismattmiller)
 - [Mauricio Giraldo](https://github.com/mgiraldo)
 - [Paul Beaudoin](https://github.com/nonword)
+- [Sara Rubinow](https://github.com/f8f8ff)
 - [Shana Kimball](https://github.com/smkimball)
 - [Shawn Averkamp](https://github.com/saverkamp)
 - [Stephen Schor](https://github.com/nodanaonlyzuul)
