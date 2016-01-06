@@ -24,7 +24,7 @@ Software, data, and product development by:
 - [Stephen Schor](https://github.com/nodanaonlyzuul)
 - [Willa Armstrong](https://github.com/wlla)
 
-Meanwhile, the [Digital Collections content and platform](digitalcollections.nypl.org) were made possible by:
+Meanwhile, the [Digital Collections content and platform](http://digitalcollections.nypl.org) were made possible by:
 - Librarians, curators and other staff from:
     + The Stephen A. Schwarzman Building
     + Library for the Performing Arts
