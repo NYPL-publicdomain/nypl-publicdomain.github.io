@@ -13,6 +13,7 @@ Software, data, and product development by:
 - [Brian Foo](https://github.com/beefoo)
 - [Jason Varghese](https://github.com/jvarghese01)
 - [Jobin Thomas](https://github.com/jobinthomasnypl)
+- [Joe Dalton](https://github.com/jbdalton)
 - [Josh Hadro](https://github.com/hadro)
 - [Kris Kelly](https://github.com/emu47)
 - [Matt Miller](https://github.com/thisismattmiller)
