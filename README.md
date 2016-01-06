@@ -31,6 +31,7 @@ Meanwhile, the [Digital Collections content and platform](http://digitalcollecti
     + Schomburg Center for Research in Black Culture
     + Science, Industry and Business Library (SIBL) 
     + Mid-Manhattan Library
+    + Library Services Center
     + BookOps
 - NYPL Technology
 - Rights Clearance Group
