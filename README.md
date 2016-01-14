@@ -42,3 +42,6 @@ Meanwhile, the [Digital Collections content and platform](http://digitalcollecti
   - Metadata Services Unit 
   - Digital Imaging Unit
   - Permissions and Reproductions
+
+For a neat narrative take on this, see [Technology is People: A human-focused journey through the technology behind New York Public Library's Digital Collections](http://ablwr.github.io/technology-is-people/), by NYPL's own [Ashley Blewer](https://github.com/ablwr), listed above.
+
